@@ -7,7 +7,7 @@ University of Essex, United Kingdom · Graduating August 2026
 
 ## About Me
 
-I work with structured datasets using Python, SQL, Power BI and Excel — covering data cleaning, exploratory data analysis, predictive modelling and interactive dashboard development to deliver clear, actionable insights.
+I work with structured datasets using Python, SQL, Power BI and Excel, covering data cleaning, exploratory data analysis, predictive modelling and interactive dashboard development to deliver clear, actionable insights.
 
 My analytical experience spans academic projects and professional roles, including collecting and validating datasets, producing stakeholder reports and translating data findings into evidence-based recommendations.
 

@@ -48,7 +48,7 @@ Multi-page interactive Power BI dashboard with KPI cards, trend analysis and sel
 
 ## Certifications
 
-- ✅ Querying Databases with SQL
+- ✅ [Querying Databases with SQL – Coursera](https://www.credly.com/badges/144d7f0a-f3ae-4273-ae41-42ea4792d902/public_url)
 
 ---
 
